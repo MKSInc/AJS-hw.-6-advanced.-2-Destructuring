@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/clli6t3gfoa0ut6p?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-6-advanced-2-destructuring)
+
 # 6. Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.

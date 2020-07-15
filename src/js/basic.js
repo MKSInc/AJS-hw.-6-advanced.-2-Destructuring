@@ -1,3 +1,3 @@
-export default function templateFunc(param) {
-  return param;
+export default function getSpecial({ special = [] }) {
+  return special.map(({ description = 'Описание недоступно', ...otherParam }) => ({ ...otherParam, description }));
 }
